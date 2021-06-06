@@ -1,0 +1,16 @@
+{
+  "name": "web_blog-master",
+  "version": "1.0.0",
+  "description": "Код разъяснения для Модуля#5 Блог",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2"
+  }
+}

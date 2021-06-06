@@ -25,9 +25,9 @@ SECRET_KEY = 'sx+qx5uv33f+n=srjedyyuba$6fm^d4&^t5gek7tt*an$09&-f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["localhost","web-blog-cmit.herokuapp.com"]
+ALLOWED_HOSTS = ["localhost","myblog137.herokuapp.com"]
 
-CORS_ORIGIN_WHITELIST = ["http://localhost:8080","https://web-blog-cmit.herokuapp.com"]
+CORS_ORIGIN_WHITELIST = ["http://localhost:8080","https://myblog137.herokuapp.com"]
 
 CORS_ALLOW_HEADERS = [
         'Access-Control-Allow-Headers',
